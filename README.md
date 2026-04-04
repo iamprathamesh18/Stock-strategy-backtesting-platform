@@ -303,21 +303,4 @@ The backend uses `better-sqlite3`. To switch to PostgreSQL:
 3. Update SQL syntax where needed (e.g. `INTEGER PRIMARY KEY AUTOINCREMENT` → `SERIAL PRIMARY KEY`)
 4. Set `DATABASE_URL` environment variable
 
----
 
-## Screenshots
-
-*After setup and data ingestion:*
-
-- **Dashboard** — overview stats, recent backtests, quick actions
-- **Run Backtest** — configure ticker, date range, strategy, view price chart + equity curve + trade log
-- **Strategy Builder** — visual IF-THEN rule editor, saved strategies list
-- **Market Data** — browse OHLCV data by ticker with price chart
-- **History** — full table of all backtest runs with metrics
-- **Admin Panel** — user management, ticker CRUD, system logs, data seeding
-
----
-
-## License
-
-MIT — built for educational and research purposes.
