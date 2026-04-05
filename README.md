@@ -226,7 +226,7 @@ python fetch_stock_data.py
 python fetch_stock_data.py TSLA NVDA AMD
 ```
 
-### 4. Create Admin User
+### 4. Create Admin Users
 
 Register via the UI or API, selecting role=admin:
 ```bash
