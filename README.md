@@ -276,7 +276,7 @@ docker run --rm \
 
 ---
 
-## Custom Strategy Builder
+## Custom Strategy builder
 
 The **Strategy Builder** UI allows defining IF-THEN rules visually:
 
