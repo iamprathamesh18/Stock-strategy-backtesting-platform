@@ -1,6 +1,6 @@
 # Stock Strategy Backtesting Platform
 
-A full-stack platform for backtesting trading strategies against historical stock data. No CSV uploads required — data is pre-loaded via an automated Python ingestion script.
+A full-stack platform for backtesting trading strategies against historical stock data. No CSV uploads required data is pre-loaded via an automated Python ingestion script.
 
 ---
 
